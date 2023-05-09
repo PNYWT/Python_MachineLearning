@@ -1,4 +1,6 @@
 # pip install -U scikit-learn
+# https://www.youtube.com/watch?v=kUF5hPfQWaQ&t=21406s
+# https://kongruksiam.medium.com/สรุป-machine-learning-ep-2-รู้จักกับข้อมูลชุดเรียนรู้และข้อมูลชุดทดสอบ-119a16a901c8
 # https://kongruksiam.medium.com/สรุป-machine-learning-ep-1-ว่าด้วยเรื่องชุดข้อมูล-dataset-f3167b829406
 
 from sklearn import datasets

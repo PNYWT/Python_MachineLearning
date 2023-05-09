@@ -1,5 +1,6 @@
 #https://kongruksiam.medium.com/สรุป-machine-learning-ep-3-การวิเคราะห์การถดถอยเชิงเส้น-linear-regression-891260e4a957
 """
+Linear regression เป็น การเรียนรู้แบบมีผู้สอน (Supervised Machine Learning Algorithms) ในข้อมูลมีชุดเฉลยอยู่แล้ว
 Linear regression สมการ -> y = ax+b
 x = ตัวแปรที่ทราบค่า | ตัวประมาณการ(Predictor)
 y = ตัวแปรที่เราไม่ทราบค่า | ตัวตอบสนอง (Response) <- ส่วนใหญ่แล้วเราต้องการหาตัวนี้
