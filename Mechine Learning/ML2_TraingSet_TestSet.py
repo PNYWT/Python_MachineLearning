@@ -24,3 +24,11 @@ print("data_Training_X -> {}".format(data_Training_X.shape))
 print("data_Training_Y -> {}".format(data_Training_Y.shape))
 print("data_Test_X -> {}".format(data_Test_X.shape))
 print("data_Test_Y -> {}".format(data_Test_Y.shape))
+
+"""
+https://www.mindphp.com/บทเรียนออนไลน์/python-tensorflow/8576-how-to-split-dataset.html
+https://medium.com/botnoi-classroom/คำแนะนำเมื่อต้องนำ-machine-learning-ไปประยุกต์ใช้งานจริง-d3d779fe14ae
+training set ใช้ดู error หรือ bias การปรับค่านั้นนี่โน้น เหมือนเราสอนใครสักคนแล้วเลือกวิธีสอนแตกต่างกัน อันไหน work สุด
+    - ชุดข้อมูลที่ใช้สำหรับการเรียนรู้ (โดย model) กล่าวคือ เพื่อให้เหมาะสมกับพารามิเตอร์กับ model ของ machine learning
+test set นำไปใช้ทดสอบกับข้อมูลจริง ก่อนจะนำไปใช้งานจริงๆ
+"""
